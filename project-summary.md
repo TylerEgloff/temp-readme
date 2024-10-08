@@ -8,7 +8,7 @@ Our team has various research goals. First and foremost is developing eye moveme
 The brain-vision coordination project seeks to benefit the medical field. Notably, neuro-opthamologists can use eye tracking technology to aid in diagnosis of various neurological, visual, and motor conditions, as well as physical disorders affecting the eye. This project can be broken down into three distinct parts listed below.
 
 ### Data Aquisition
-To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that allows us to collect 3-D spatial data for landmarks around the face (click left image). It also requires us to develop stimulus routines such as this revolving circle stimulus (click right image).
+To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that allows us to collect 3-D spatial data for landmarks around the face (click left image). We also must develop stimulus routines for subjects to be tested on, such as this revolving circle stimulus (click right image).
 
 <a href="face-mesh.gif">
   <img src="face-mesh-stll.png" width="300"/>
