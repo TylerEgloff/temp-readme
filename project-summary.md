@@ -9,6 +9,7 @@ The brain-vision coordination project seeks to benefit the medical field. Neuro-
 
 ### Data Aquisition
 To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that allows us to collect 3-D spatial data for landmarks around the face (visualized in left image). It also requires us to develop stimulus routines (example in right image).
+[![Preview](face-mesh-still.png)](face-mesh.gif)
 
 
 ### Data Processing
