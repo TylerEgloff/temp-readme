@@ -7,8 +7,10 @@ Our team has various research goals. First and foremost is developing eye moveme
 ## Brain-Vision Coordination
 The brain-vision coordination project seeks to benefit the medical field. Notably, neuro-opthamologists can use eye tracking technology to aid in diagnosis of various neurological, visual, and motor conditions, as well as physical disorders affecting the eye. This project can be broken down into three distinct parts listed below.
 
+Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/vision-brain-coordination.md)
+
 ### Data Aquisition
-To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that has many uses including exporting 3-D spatial data (X,Y,Z) for landmarks around the face (click left image). We also must develop stimulus routines for subjects to be presented with, such as this revolving circle stimulus (click right image).
+To acquire eye gaze data, this project will use MediaPipe, a framework that has many uses including exporting 3-D spatial data (X,Y,Z) for landmarks around the face (click left image). We also must develop stimulus routines for subjects to be presented with, such as this revolving circle stimulus (click right image).
 
 <a href="face-mesh.gif">
   <img src="face-mesh-stll.png" width="300"/>
@@ -25,4 +27,6 @@ After collecting data, it will need to be visualized in correspondence with what
 <img src="circle-stimulus-visualized.png" width="300"/>
 
 ## Image-Based Eye Tracking
-The image-based eye tracking project has many broad applications. One instance can be found in our medeival manuscript study, in which we studied the 
+The image-based eye tracking project has many broad applications. One instance can be found in our medieval manuscript study, in which we studied the 
+
+Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/2024-medieval-manuscripts.md)
