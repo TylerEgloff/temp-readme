@@ -1,4 +1,5 @@
 # Vision-Brain Coordiantion
+Central repo that contains repositories and documentation of the vision-brain coordination project.
 
 ## Acquisition
 #### Stimuli
