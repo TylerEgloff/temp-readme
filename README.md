@@ -9,18 +9,18 @@ Table of contents
 # About
 This team studies human gaze patterns through the use of eye-tracking technology. This readme includes links to different sections that go into further detail on that section.
 
-For further explanation of the teams goals and tools, visit the full [Project Summary](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md) repo.
+For further explanation of the teams goals and projects, visit the full [Project Summary](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md) repo.
 
 # Projects
 #### Vision-Brain Coordination (ongoing)
 The goal of this project is to develop vision-brain coordination routines for which subjects gaze data is captured by MediaPipe.
 
-See details [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/vision-brain-coordination.md)
+Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/vision-brain-coordination.md)
 
 #### Medieval Manuscripts (2024)
 The goal of the project was to evaluate how individuals interact with medieval manuscripts having different layouts and visual elements.
 
-See details [here](https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects/2024-medieval-manuscripts.md)
+Repos and documentation [here](https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects/2024-medieval-manuscripts.md)
 
 ---
 # Publications
