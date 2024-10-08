@@ -18,7 +18,7 @@ To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a fra
 </a>
 
 ### Data Processing
-The raw spatial geometry requires some processing to fit our needs. In short, the MediaPipe coordinates are not the only aspects of data we need, and we must extract or derive other data based on the coordinates (such as the angle of the users face relative to the camera). Some data filtering is also likely needed, for example, we may want to remove frames where subjects are blinking from datasets
+The raw spatial geometry requires some processing to fit our needs. In short, the MediaPipe coordinates are not the only aspects of data we need, and we must extract or derive other data based on the coordinates (such as the angle of the users face relative to the camera). Some data filtering is also likely needed, for example, we may want to remove frames where subjects are blinking from our data.
 ### Data visualization
 After collecting data, it will need to be visualized in correspondence with what sort of stimulus was presented. To the right is a sketch of what the visualiztion for the above stimulus may look like, where the red is the path that the user's eye followed.
 
