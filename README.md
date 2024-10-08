@@ -26,5 +26,3 @@ See details [here](https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects
 # Publications
 1. 2024 - MiPro: https://github.com/NKU-HCI-lab/eyetracking-publication-2024-MiPro-blinking
 2. 2024 - ICCA:  (https://icca-conf.info/) https://github.com/NKU-HCI-lab/eyetracking-publication-2024-ICCA-Medieval
-
-https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md
