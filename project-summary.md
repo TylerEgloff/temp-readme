@@ -6,5 +6,5 @@ Our team has various research goals. First and foremost is developing [MediaPipe
 
 ## Brain-Vision Coordination
 The brain-vision coordination avenue of this project seeks to benefit the medical field. Neuro-opthamologists can use eye tracking technology to aid in diagnosis of various neurological, visual, and motor conditions, as well as physical disorders affecting the eye. 
-
-![Circle Stimulus](Circle-Stimulus.gif)
+<img src="Circle-Stimulus.gif" alt="Circle Stimulus Routine" align="right" width="300">
+This text will wrap around the image to the right. You can continue writing here, and the text will adjust to wrap around the image. Make sure the image size is small enough to allow space for the text to wrap.
