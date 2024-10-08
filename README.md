@@ -13,7 +13,7 @@ For further explanation of the teams goals and tools, visit the full [Project Su
 
 # Projects
 #### Vision-Brain Coordination (ongoing)
-The goal of this project is to develop [vision-brain coordination](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md#Vision-Brain-Coordination) routines for which subjects gaze data is captured by [MediaPipe](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md#MediaPipe).
+The goal of this project is to develop vision-brain coordination routines for which subjects gaze data is captured by MediaPipe.
 
 See details [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/vision-brain-coordination.md)
 
