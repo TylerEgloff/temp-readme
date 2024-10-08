@@ -15,10 +15,12 @@ For further explanation of the teams goals and tools, visit the full [Project Su
 #### Vision-Brain Coordination (ongoing)
 The goal of this project is to develop [vision-brain coordination](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md#Vision-Brain-Coordination) routines for which subjects gaze data is captured by [MediaPipe](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md#MediaPipe).
 
+See details [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/vision-brain-coordination.md)
+
 #### Medieval Manuscripts (2024)
 The goal of the project was to evaluate how individuals interact with medieval manuscripts having different layouts and visual elements.
 
-See details at https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects/2024-medieval-manuscripts.md
+See details [here](https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects/2024-medieval-manuscripts.md)
 
 ---
 # Publications
