@@ -19,4 +19,5 @@ MediaPipe visualization: https://github.com/NKU-HCI-lab/visualize-mediapipe
 
 ## Documentation
 MediaPipeDoc: https://ai.google.dev/edge/mediapipe/solutions/guide
-Rotation Angle With Nose: https://medium.com/@sshadmand/a-simple-and-efficient-face-direction-detection-in-react-e02cd9d547e5
+
+Rotation Angle With Nose Demo: https://medium.com/@sshadmand/a-simple-and-efficient-face-direction-detection-in-react-e02cd9d547e5
