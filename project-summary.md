@@ -8,7 +8,8 @@ Our team has various research goals. First and foremost is developing [MediaPipe
 The brain-vision coordination project seeks to benefit the medical field. Neuro-opthamologists can use eye tracking technology to aid in diagnosis of various neurological, visual, and motor conditions, as well as physical disorders affecting the eye. This project can be broken down into three distinct parts listed below.
 
 ### Data Aquisition
-To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that allows us to collect 3-D spatial data for landmarks around the face. It also requires us to develop stimulus routines like this one:
+To acquire eye gaze data, this project will use [MediaPipe](###MediaPipe), a framework that allows us to collect 3-D spatial data for landmarks around the face (visualized in left image). It also requires us to develop stimulus routines (example in right image).
+
 
 ### Data Processing
 Acquiring coordinates of facial landmarks 
