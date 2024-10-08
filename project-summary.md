@@ -27,6 +27,11 @@ After collecting data, it will need to be visualized in correspondence with what
 <img src="circle-stimulus-visualized.png" width="300"/>
 
 ## Image-Based Eye Tracking
-The image-based eye tracking project has many broad applications. One instance can be found in our medieval manuscript study, in which we studied the 
+The image-based eye tracking project has many broad applications. One instance can be found in our medieval manuscript study, in which we studied which parts of the pages that subjects viewed during short experiments. Some of the visualizations are shown below:
+
+<img src="circle-stimulus-visualized.png" width="300"/>
+
+<img src="circle-stimulus-visualized.png" width="300" align="right"/>
+
 
 Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/2024-medieval-manuscripts.md)
