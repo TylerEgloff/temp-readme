@@ -1,5 +1,5 @@
 # Project Summary
-This is a surface level overview of the most relevant information related to the eye tracking project. Included are links to documentation, explanations of tools, diagrams of program workflows, and more.
+This is a surface level overview of the most relevant information related to the eye tracking project. This should provide a general but non-technical understanding of what the team is trying to do. Technical documentation can be found in each's projects specific README page.
 
 ## What is the project?
 Our team has various research goals. First and foremost is developing eye movement data extraction tools. In short, this means that information about where a subject's eye is looking could be gathered with a simple commerical grade webcam. This would bring with it the potential for various applications such as developing new [brain-vision coordination](##Brain-Vision-Coordination) routines. And other applications could include studying UI/UX design, and [image-based studies](##Image-Based-Eye-Tracking).
