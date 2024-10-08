@@ -9,7 +9,7 @@ Table of contents
 # About
 This team studies human gaze patterns through the use of eye-tracking technology. This readme includes links to different sections that go into further detail on that section.
 
-For further explanation of the teams goals and tools, visit the full [Project Summary](https://github.com/NKU-HCI-lab/eyetracking/blob/main/projects/2024-medieval-manuscripts.md) repo.
+For further explanation of the teams goals and tools, visit the full [Project Summary](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md) repo.
 
 # Projects
 #### Vision-Brain Coordination (ongoing)
