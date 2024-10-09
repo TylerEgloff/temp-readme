@@ -14,7 +14,7 @@ To acquire eye gaze data, this project will use MediaPipe, a framework that has 
 
 <div align="center">
   <a href="face-mesh.gif">
-    <img src="/assets/project-summary/face-mesh-stll.png" width="300"/>
+    <img src="/assets/project-summary/face-mesh-still.png" width="300"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="circle-stimulus.gif">
@@ -47,7 +47,7 @@ The Tobii data we gathered was not properly calibrated, meaning that the points 
 Many components were made for the visualization piece. Below are the four types of visualization we made: heatmaps, scanpaths, area-of-interest(AOI) maps, and scanpath timelines, respectively. Heatmaps are a very readable way to view the intensity of gaze in different ways. Scanpaths show the direction and time that the subjects gaze followed. AOI maps have particular regions tagged, with percentages showing how much of the time the viewers gaze fell into each tagged region. Scanpath timelines also represent where and how long gaze fell into the tagged regions, but it is an aggregation of all subjects data for each page of manuscript, where each row represents one subject.
 
 <div align="center" style="white-space: nowrap;">
-  <img src="/assets/project-summary/assets/visualizations.jpg">
+  <img src="/assets/project-summary/visualizations.jpg">
 </div>
 
 
