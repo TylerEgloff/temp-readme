@@ -12,26 +12,50 @@ Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/m
 ### Data Aquisition
 To acquire eye gaze data, this project will use MediaPipe, a framework that has many uses including exporting 3-D spatial data (X,Y,Z) for landmarks around the face (click left image). We also must develop stimulus routines for subjects to be presented with, such as this revolving circle stimulus (click right image).
 
-<a href="face-mesh.gif">
-  <img src="face-mesh-stll.png" width="300"/>
-</a>
-<a href="circle-stimulus.gif">
-  <img src="circle-stimulus-still.png" width="300" align="right"/>
-</a>
+<div align="center">
+  <a href="face-mesh.gif">
+    <img src="face-mesh-stll.png" width="300"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="circle-stimulus.gif">
+    <img src="circle-stimulus-still.png" width="300"/>
+  </a>
+</div>
 
 ### Data Processing
 The raw spatial geometry requires some processing to fit our needs. In short, the MediaPipe coordinates are not the only aspects of data we need, and we must extract or derive other data based on the coordinates (such as the angle of the users face relative to the camera). Some data filtering is also likely needed, for example, we may want to remove frames where subjects are blinking from our data.
-### Data visualization
+
+### Data Visualization
 After collecting data, it will need to be visualized in correspondence with what sort of stimulus was presented. To the right is a sketch of what the visualiztion for the above stimulus may look like, where the red is the path that the user's eye followed.
 
-<img src="circle-stimulus-visualized.png" width="300"/>
+<div align="center">
+  <img src="circle-stimulus-visualized.png" width="300"/>
+</div>
 
 ## Image-Based Eye Tracking
-The image-based eye tracking project has many broad applications. One instance can be found in our medieval manuscript study, in which we studied which parts of the pages that subjects viewed during short experiments. Some of the visualizations are shown below:
-
-<img src="circle-stimulus-visualized.png" width="300"/>
-
-<img src="circle-stimulus-visualized.png" width="300" align="right"/>
-
+The image-based eye tracking project has many broad applications. One instance can be found in our medieval manuscript study, in which we studied which parts of the pages that subjects viewed during short experiments.
 
 Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/main/projects/2024-medieval-manuscripts.md)
+
+### Data Aquisition
+To acquire eye gaze data, this project used a Tobii eye tracker, which ouputs X and Y coordinates that represent the viewers gaze location upon the screen. 
+
+### Data Processing
+The Tobii data we gathered was not properly calibrated, meaning that the points did not accurately reflect the viewers eye gaze location. To fix this, we developed a script to manually adjust the datapoints and also remove outliers. 
+
+### Data Visualization
+Many components were made for the visualization piece. Below are the four types of visualization we made: heatmaps, scanpaths, area-of-interest(AOI) maps, and scanpath timelines, respectively. Heatmaps are a very readable way to view the intensity of gaze in different ways. Scanpaths show the direction and time that the subjects gaze followed. AOI maps have particular regions tagged, with percentages showing how much of the time the viewers gaze fell into each tagged region. Scanpath timelines also represent where and how long gaze fell into the tagged regions, but it is an aggregation of all subjects data for each page of manuscript, where each row represents one subject.
+
+<div align="center" style="white-space: nowrap;">
+  <img src="assets/visualizations.jpg">
+</div>
+
+
+
+
+
+
+
+
+
+
