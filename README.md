@@ -9,7 +9,7 @@ Table of contents
 # About
 This team studies human gaze patterns through the use of eye-tracking technology. This readme includes links to different sections that go into further detail on that section.
 
-For further explanation of the teams goals and projects, visit the full [Project Summary](https://github.com/TylerEgloff/temp-readme/blob/main/project-summary.md).
+For further explanation of the teams goals and projects, visit the full [Project Summary](https://github.com/TylerEgloff/temp-readme/blob/main/projects/project-summary.md).
 
 # Projects
 #### Vision-Brain Coordination (ongoing)
