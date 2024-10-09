@@ -1,7 +1,7 @@
 # Vision-Brain Coordination
 Central repo that contains repositories and documentation of the vision-brain coordination project.
 <p align="center">
-  <img src="/project-summary/assets/vision-brain-pipeline.jpg" />
+  <img src="/assets/project-summary/vision-brain-pipeline.jpg" />
 </p>
 
 ## Acquisition
