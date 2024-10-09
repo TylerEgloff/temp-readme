@@ -50,6 +50,17 @@ Many components were made for the visualization piece. Below are the four types 
   <img src="/assets/project-summary/visualizations.jpg">
 </div>
 
+## How Can I Contribute?
+This project requires a wide variety of tasks in to be successful with many different role available. Some ways that you can make a contribution to the project are by helping to review previous literature, prepare presentations, write conference papers, and develop software,  
+### Reviewing Literature
+In many cases, it is necessary for members of the team to familiarize ourselves with the existing literature about a subject that we are going to study to ensure that we have a solid background to base our research on and that we can contribute to the existing body of literature in a meaningful way. We also need to include the findings of previous studies in our research papers to provide some context to how our findings fit into the work that others have done and to show that we have adequate knowledge about our topic to be able to participant in the conversation surrounding it. To do this, we need members of the team to conduct in depth searches of all literature related to our study and to present relevant finding the group to use as reference for better understanding the topic, and for including in conference papers
+### Preparing Presentation
+After completing a study, it is likely that we will write a paper that covers the results of our research to submit at a conference. If the paper is accepted, then we must present the key findings at whatever conference we submitted to. We also might present our research in other places, like at classes or conference that take place at NKU. We need team members to create presentation slides and posters about our study to be presented at these various events.
+### Writing Papers
+To share our research work with others, we need to write a paper that covers all relevant information that is needed to be able the purpose, methods, and findings of our study. Papers will include background literature that is necessary to give context to where are study fits into existing research and how it can fill gap in the research, the main purpose of our research, how we conducted our study/investigated our question, what are results were, and how these results are relevant to our topic. There will need to be team members responsible for ensuring that papers have all of the necessary pieces to explain our study and its importance to others.
+### Adapting/Developing Software
+As the primary focus of this project is eye tracking, there are many piece of software that our team has to apply to the satisfy the needs of our research or build from scratch. There are many different types of software used in the project, but the main ones are data acquisition, data processing, and data visualization. Contributions can be made to any one or combinations of these categories.
+
 
 
 
