@@ -57,5 +57,3 @@ Many components were made for the visualization piece. Below are the four types 
 
 
 
-
-
