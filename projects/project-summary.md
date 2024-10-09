@@ -13,11 +13,11 @@ Repos and documentation [here](https://github.com/TylerEgloff/temp-readme/blob/m
 To acquire eye gaze data, this project will use MediaPipe, a framework that has many uses including exporting 3-D spatial data (X,Y,Z) for landmarks around the face (click left image). We also must develop stimulus routines for subjects to be presented with, such as this revolving circle stimulus (click right image).
 
 <div align="center">
-  <a href="face-mesh.gif">
+  <a href="/assets/project-summary/face-mesh.gif">
     <img src="/assets/project-summary/face-mesh-still.png" width="300"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="circle-stimulus.gif">
+  <a href="/assets/project-summary/circle-stimulus.gif">
     <img src="/assets/project-summary/circle-stimulus-still.png" width="300"/>
   </a>
 </div>
